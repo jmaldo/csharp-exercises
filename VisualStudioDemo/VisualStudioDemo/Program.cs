@@ -10,7 +10,7 @@ namespace VisualStudioDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Visual Studio Demo");
-            Console.ReadLine();
+            Console.ReadLine(); //email change
         }
     }
 }
