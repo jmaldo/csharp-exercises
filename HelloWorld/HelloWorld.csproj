@@ -5,8 +5,4 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\jerem\lc101\source\repos\csharp-exercises\CharCount\CharCount.cs" Link="CharCount.cs" />
-  </ItemGroup>
-
 </Project>

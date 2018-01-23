@@ -19,8 +19,6 @@ namespace studio_countingcharacters
             foreach (var x in dict.Keys)
             {
                 Console.WriteLine($"{x} : {dict[x]}");
-            }
-            {
                 Console.ReadLine();
             }
 
